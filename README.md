@@ -1,4 +1,4 @@
-# Análisis Geoespacial para Identificación de Zonas Mineras Potenciales
+# Optimizing Iron Concentrate Yield with Machine Learning
 
 ## Descripción  
 Este proyecto aplica análisis de datos geoespaciales para identificar regiones con alto potencial de extracción minera, utilizando información geológica, topográfica y de ocurrencia histórica de minerales. El objetivo es explorar patrones espaciales y generar mapas de calor o zonas prioritarias para exploración futura.
